@@ -1,7 +1,8 @@
 # urap_tech_sp16
-USE UTF_8 encoding 
+USE UTF-8 encoding 
 
-Whenever you start a new task, please copy the copy_template to your own folder and name it in a succinct way so that we know exactly what this task is accomplishing.
+
+Whenever you start a new task, please copy the copy_template to your own folder and name it in a succinct way so that we know exactly what this task is accomplishing. Always work in the dropbox directly and make sure sync is on so that others can track your porgress real time.
 
 Use relative path
 
