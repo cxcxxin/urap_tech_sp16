@@ -10,7 +10,8 @@ Use relative path
 
 
 Write down your name at the top of each coding file @author
-Once you finish a task, append _done at the end of the folder name.
+Once you finish a task, append _done at the end of the folder name and copy the entire folder to the tocheck folder in the root directory. 
+Comment done on the issue tracking
 Update the issue tracking and comment "done" here
 
 
