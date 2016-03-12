@@ -21,3 +21,5 @@ If you are coding in py, you should comment on any additional directions for run
 
 
 issue tracking
+
+For future coding on 750d, use the 750d files on Github under Code->All input files on 750d. 
