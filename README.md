@@ -8,6 +8,8 @@ All the output should be in CSV format, never xlsx.
 
 Use relative path
 
+R, please go through the following tutorial before you use R:
+https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects
 
 Write down your name at the top of each coding file @author
 Once you finish a task, append _done at the end of the folder name and copy the entire folder to the tocheck folder in the root directory. 
