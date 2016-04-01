@@ -6,6 +6,8 @@ Whenever you start a new task, please copy the copy_template to your own folder 
 
 All the output should be in CSV format, never xlsx.
 
+Please use Python 2.7 version. 
+
 Use relative path
 
 R, please go through the following tutorial before you use R:
