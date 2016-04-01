@@ -8,6 +8,8 @@ All the output should be in CSV format, never xlsx.
 
 Please use Python 2.7 version. 
 
+For each task, github issue name should be the same as the code name and output name. For every issue, write your output and code directory under the github issue. 
+
 Use relative path
 
 R, please go through the following tutorial before you use R:
