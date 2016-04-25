@@ -27,3 +27,7 @@ If you are coding in py, you should comment on any additional directions for run
 issue tracking
 
 For future coding on 750d, use the 750d files on Github under Code->All input files on 750d. 
+
+For version control with github, please follow instructions on following HTMLs, which have instructions on project version control on rstudio. 
+http://rpubs.com/alucas/175472
+http://rpubs.com/alucas/173612
