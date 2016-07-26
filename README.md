@@ -20,6 +20,8 @@ Once you finish a task, append _done at the end of the folder name and copy the 
 Comment done on the issue tracking
 Update the issue tracking and comment "done" here
 
+In R, when you use read.csv() to load a table, you'd better add an argument stringsAsFactors = FALSE to tell R to keep character variables as they are rather than convert to factors. 
+If you want to use read.csv() to load a table with Chinese characters, you can add an argument encoding="UTF-8". Do not use fileEncoding.
 
 If you are coding in py, you should comment on any additional directions for running the script if it cannot be run directly (meaning pressing command B in sublime is not enough for generating the outputs)
 
