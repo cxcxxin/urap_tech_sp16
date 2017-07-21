@@ -1,8 +1,9 @@
 # urap_tech_sp16
 USE UTF-8 encoding 
 
+Before you start, please make sure you have an asana, github, and dropbox account. Ask the group leader to add you to our team for each product we use.
 
-Whenever you start a new task, please copy the copy_template to your own folder and name it in a succinct way so that we know exactly what this task is accomplishing. Always work in the dropbox directly and make sure sync is on so that others can track your porgress real time.
+Whenever you start a new task, please copy the copy_template to your own folder and name it in a succinct way so that we know exactly what this task is accomplishing. Always work in the dropbox directly and make sure sync is on so that others can track your porgress real time. You may expand your dropbox storage with a few rmbs on taobao.
 
 All the output should be in CSV format, never xlsx.
 
@@ -19,6 +20,8 @@ Write down your name at the top of each coding file @author
 Once you finish a task, append _done at the end of the folder name and copy the entire folder to the tocheck folder in the root directory. 
 Comment done on the issue tracking
 Update the issue tracking and comment "done" here
+
+
 
 In R, when you use read.csv() to load a table, you'd better add an argument stringsAsFactors = FALSE to tell R to keep character variables as they are rather than convert to factors. 
 If you want to use read.csv() to load a table with Chinese characters, you can add an argument encoding="UTF-8". Do not use fileEncoding.
